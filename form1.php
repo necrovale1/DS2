@@ -12,6 +12,6 @@
         <input type="text" name="usuario" required/></h3>
     <h3>E-mail:
         <input type="email" name="email" required/></h3>
-    <input type="submit" name="enviar"></h3>
+    <input type="submit" name="enviar">
 </body>
 </html>
