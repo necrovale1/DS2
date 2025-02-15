@@ -1,0 +1,35 @@
+﻿body {
+    background-color: #323232;
+    padding-top: 2%;
+    text-align: center;
+    color: #959;
+    font-size: 25px;
+    font-family: 'BankGothic Lt BT';
+}
+
+h3#menor {
+    color: red;
+}
+
+h3#maior {
+    color: lawngreen;
+}
+
+h3#nota {
+
+}
+
+input#calc {
+    font-family: 'BankGothic Lt BT';
+    padding: 15px;
+    font-size: 20px;
+    background-color: #4c4c4c;
+    color: lawngreen;
+}
+
+input#n {
+    padding:5px;
+    font-family: 'BankGothic Lt BT';
+    background-color: #4c4c4c;
+    color: lawngreen;
+}
