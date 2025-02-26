@@ -1,2 +1,2 @@
 # DS2
-This is my System Development classes github folder
+This is my System Development Second Semester classes github folder
